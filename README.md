@@ -19,6 +19,9 @@ analysis of green power companies
     las analizadas pero si la vemos un ano despues tiene un comportamiento
     negativo de hecho es la que mas fuerte cae de todas lo cual nos indica 
     que posiblemente estaba por sobrecompra (image A-2).
+    
+![](https://github.com/maadpeal/stock-analysis/blob/main/Resources/A-1.png) A-1
+![](https://github.com/maadpeal/stock-analysis/blob/main/Resources/A-2.png) A-2
   
 ### Comparing the others companies
 
@@ -28,6 +31,9 @@ analysis of green power companies
     lo cual la podria hacer mas atractiva, por su parte "RUN" en el 2017 tiene
     un retorno de 5,5% y el 2018 de 84%, la hace una opcion viable pero no tan
     atractiva como la anterior (images B1, B2).
+    
+![](https://github.com/maadpeal/stock-analysis/blob/main/Resources/B-1.png) B-1
+![](https://github.com/maadpeal/stock-analysis/blob/main/Resources/B-2.png) B-2
 
 ### Anothers observation
 
@@ -43,14 +49,23 @@ analysis of green power companies
     mas data para que nos ayude a tomar una decision mas informada y claro esta, 
     mas cantidad de empresas para analizar si podremos encontrar un patron en alguna
     otra (image C-1, C-2).
+    
+![](https://github.com/maadpeal/stock-analysis/blob/main/Resources/C-1.png) C-1
+![](https://github.com/maadpeal/stock-analysis/blob/main/Resources/C-2.png) C-2
 
 ### Executions
 
     Original code 2017 (image D-1)
     Refactor code 2017 (image D-2)
+    
+![](https://github.com/maadpeal/stock-analysis/blob/main/Resources/base_2017.png) D-1
+![](https://github.com/maadpeal/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png) D-2
 
     Original code 2018 (image E-1)
     Refactor code 2018 (image E-2)
+    
+![](https://github.com/maadpeal/stock-analysis/blob/main/Resources/base_2018.png) E-1
+![](https://github.com/maadpeal/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png) E-2
 
 ## Summary
 
