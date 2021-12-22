@@ -3,52 +3,52 @@ analysis of green power companies
 
 ## Purpose
 
-    Ayudar a los padres de steve a determinar si la empresa "DAQO
-    New Energy Corp", cumple los requisitos minimos de rentabilidad
-    para hacer una inversion y si hay otras empresas que puedan 
-    tener un atractivo parecido o incluso mayor que la elegida por 
-    los padres de steve, se buscara determinar esto por el retorno
-    de las empresas.
+    Help Steve's parents determine if "DAQO
+    New Energy Corp", meets the minimum profitability requirements
+    to make an investment and if there are other companies that can
+    have an attractiveness similar to or even greater than that chosen by
+    Steve's parents, this will be determined by the return
+    of companies. 
 
 ## Results
 
 ### Comparing "DQ" on 2017 vs 2018
 
-    Si observas en el analisis del 2017 esta empresa tiene un gran
-    retorno para ese ano (image A-1), es la que mejor retorno tiene de todas
-    las analizadas pero si la vemos un ano despues tiene un comportamiento
-    negativo de hecho es la que mas fuerte cae de todas lo cual nos indica 
-    que posiblemente estaba por sobrecompra (image A-2).
+    If you look at the analysis of 2017 this company has a great
+    return for that year (image A-1), it is the one with the best return of all
+    the analyzed ones but if we see it a year later it has a behavior
+    negative in fact is the one that falls the strongest of all which indicates
+    which was possibly due to overbought (image A-2).
     
 ![](https://github.com/maadpeal/stock-analysis/blob/main/Resources/A-1.png) A-1
 ![](https://github.com/maadpeal/stock-analysis/blob/main/Resources/A-2.png) A-2
   
 ### Comparing the others companies
 
-    Si observamos el cuadro resumen de todas las empresas nos daremos cuenta
-    que solo hay dos que mantuvieron su retorno en numeros positivos como son 
-    "ENPH" y "RUN". ENPH tiene un retorno en el 2017 de 129,5% y el 2018 81,9%
-    lo cual la podria hacer mas atractiva, por su parte "RUN" en el 2017 tiene
-    un retorno de 5,5% y el 2018 de 84%, la hace una opcion viable pero no tan
-    atractiva como la anterior (images B1, B2).
+    If we look at the summary table of all the companies we will realize
+    that there are only two that maintained their return in positive numbers such as
+    "ENPH" and "RUN". ENPH has a return in 2017 of 129.5% and in 2018 81.9%
+    which could make it more attractive, for its part "RUN" in 2017 has
+    a 5.5% return and 84% in 2018, makes it a viable option but not as
+    attractive as above company(images B1, B2).
     
 ![](https://github.com/maadpeal/stock-analysis/blob/main/Resources/B-1.png) B-1
 ![](https://github.com/maadpeal/stock-analysis/blob/main/Resources/B-2.png) B-2
 
 ### Anothers observation
 
-    Trate de determinar si exista algun patron evidente para tomar una decision
-    sobre cual era la mejor opcion para invertir, si por ejemplo tomamos en cuenta
-    el factor de volumen diario nos encontramos que aquellas que tenian mayor
-    volumen tambien sufrieron perdidas en el retorno y aquellas que tenian menor
-    volumen tambien cayeron, las dos empresas que lograron escapar el retroceso del
-    retorno tienen volumenes diarios parecidos en el 2017, sin embargo "" SEDG tiene
-    un volumne parecido sin embargo presento un retroceso, minimo pero igual lo sufrio,
-    lo cual parece no ser el mejor de los indicadores para evaluar una empresa de 
-    inversion, por ende lo mejor en este caso es obtener 
-    mas data para que nos ayude a tomar una decision mas informada y claro esta, 
-    mas cantidad de empresas para analizar si podremos encontrar un patron en alguna
-    otra (image C-1, C-2).
+    Try to determine if there is any obvious pattern for making a decision
+    on which was the best option to invest, if for example we take into account
+    the daily volume factor, we find that those who had higher
+    volume also suffered losses in return and those that had lower
+    volume also fell, the two companies that managed to escape the decline in
+    return have similar daily volumes in 2017, however "SEDG" has
+    a similar volume, however, presented a setback, minimal but still suffered,
+    which seems not to be the best of the indicators to evaluate a company of
+    investment, therefore the best thing in this case is to obtain
+    more data to help us make a more informed and clear decision,
+    more number of companies to analyze if we can find a pattern in any
+    another (image C-1, C-2).
     
 ![](https://github.com/maadpeal/stock-analysis/blob/main/Resources/C-1.png) C-1
 ![](https://github.com/maadpeal/stock-analysis/blob/main/Resources/C-2.png) C-2
@@ -72,24 +72,25 @@ analysis of green power companies
     - What are the advantages or disadvantages of refactoring code?
 
 
-#### Ventajas
+#### Advantages
 
-     1. Nos permite optimizar codigo que consume recursos en exceso.
-     2. Podemos hacer mas claro el codigo con comentarios y nombres de variables mas explicativas
-     3. Agregar funcionalidad
+    1. It allows us to optimize code that consumes excess resources.
+    2. We can make the code clearer with comments and names of more explanatory variables
+    3. Add functionality
 
-#### Desventajas
+#### Disadvantages
 
-    1. Debes tener conocimiento del funcionamiento general del codigo
-    2. Podrias romper el codigo generando outputs equivocados o simplemente puede dejar de funcionar
+    1. You must have knowledge of the general operation of the code
+    2. You could break the code generating wrong outputs or it could simply stop working
 
     - How do these pros and cons apply to refactoring the original VBA script?
 
-    El de optimizar los tiempos de ejecucion ya que ahora corre aproximadamente 3 veces mas rapido, tambien el de agregar funcionalidad por que generamos arrays adicionales para usarlos de manera mas optima.
+    That of optimizing execution times since it now runs approximately 3 times faster, also 
+    of adding functionality because we generate additional arrays to use them more optimally.
 
-    En lo que podria ser contras esta el del conocimiento general del codigo, tuve
-    que realizar todo el modulo para saber de que iba el codigo para poder refactorizarlo
-    con confianza.
+    In what could be cons is that of the general knowledge of the code, I had
+    to do the whole module to know what the code was going to be able to refactor it
+    with trust.
 
 
     
